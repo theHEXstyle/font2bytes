@@ -25,9 +25,7 @@ Requirements
 
 Use
 -------------------
-1. drop any font you want to use (.tff) within the ./fonts folder
-
-withn the font2bytes.py
+1. drop any font you want to use (.tff) within the ./fonts folder within the font2bytes.py
 
 2. specify a new name for the font to create
 
@@ -40,7 +38,7 @@ withn the font2bytes.py
 
 The python script will generate the new .cpp file within the ./output folder with the desired name
 
-within the waveshare lkibrary source folder (Arduino\libraries\esp32-waveshare-epd\src)
+within the waveshare library source folder (Arduino\libraries\esp32-waveshare-epd\src)
 
 6. add the new .cpp font file
 
